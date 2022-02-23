@@ -1,0 +1,1641 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercy triumphing over judgement or, A warning for Sabbath-breakers Published for Gods glory and the benefit of all true Christians. By me Thomas Jones, of the City of Hereford. Who for prophaning the Lords Day was [m]ost miraculously strucken by the hand of God, and ut[te]rly depriv'd of all my senses, for the space of 4 years; [an]d now by his great mercy (upon my hearty repen[ta]nce) being perfectly restored to my former health, I [w]as moved to set forth this ensuing relation, as a testi[m]ony of my thankfulnesse to God for his fatherly [ch]astisement; and that all others by my example, may [b]e deterred from so hainous an offence as Sabbath-breaking.</title>
+            <author>Jones, Thomas, of Hereford.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47081</idno>
+            <idno type="STC">Wing J993A</idno>
+            <idno type="STC">ESTC S103195</idno>
+            <idno type="EEBO-CITATION">99828783</idno>
+            <idno type="PROQUEST">99828783</idno>
+            <idno type="VID">33214</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47081)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33214)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1968:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercy triumphing over judgement or, A warning for Sabbath-breakers Published for Gods glory and the benefit of all true Christians. By me Thomas Jones, of the City of Hereford. Who for prophaning the Lords Day was [m]ost miraculously strucken by the hand of God, and ut[te]rly depriv'd of all my senses, for the space of 4 years; [an]d now by his great mercy (upon my hearty repen[ta]nce) being perfectly restored to my former health, I [w]as moved to set forth this ensuing relation, as a testi[m]ony of my thankfulnesse to God for his fatherly [ch]astisement; and that all others by my example, may [b]e deterred from so hainous an offence as Sabbath-breaking.</title>
+                  <author>Jones, Thomas, of Hereford.</author>
+               </titleStmt>
+               <extent>[48] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by E.P. for Iohn Wright the Younger, dwelling..,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1641?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date suggested by Wing.</note>
+                  <note>Signatures: A-C.</note>
+                  <note>In verse.</note>
+                  <note>Imperfect: copy catalogued is tightly bound, affecting text and cropped at foot, affecting imprint.</note>
+                  <note>Reproduction of the original in the Worcester College Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sabbath --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33214:1"/>
+            <p>MERCY TRIUMPHING OVER <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>UDGEMENT OR, A WARNING FOR SABBATH-BREAKERS.</p>
+            <p>
+               <hi>Publiſhed for Gods glory and the benefit of all true Christians.</hi>
+            </p>
+            <p>BY <hi>me</hi> Thomas Jones, <hi>Of the City of Hereford.</hi>
+            </p>
+            <p>Who for prophaning the Lords Day was <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o;t miraculouſly ſtrucken by the hand of God, and ut<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ly depriv'd of all my ſenſes, for the ſpace of 4 years; <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d now by his great mercy (upon my hearty repen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nce) being perfectly reſtored to my former health, I as moved to ſet forth this enſuing Relation, as a teſti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ony of my thankfulneſſe to God for his fatherly <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aſtiſement; and that all others by my example, may <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e deterred from ſo hainous an offence as Sabbath-<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reaking.</p>
+            <q>
+               <bibl>
+                  <hi>1</hi> Cor. <hi>10.11.</hi>
+               </bibl> Now all theſe things happened for examples Therefore remember that yee keepe holy the Sabbath day. Exod. <hi>20.8.</hi>
+            </q>
+            <p>London Printed by <hi>E. P.</hi> for <hi>Iohn Wright</hi> the Younger, dwelling <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:33214:2"/>
+            <p>Goe little Booke, preſent thy ſelfe.</p>
+            <p>Cum Privilegio.</p>
+         </div>
+         <div type="prologue">
+            <pb facs="tcp:33214:2"/>
+            <head>THE PROLOGUE.</head>
+            <p>BEloved Chriſtians, before I was puniſhed for my ſins I followed mine owne wayes, but now I deſire to keepe the commandements of my God; therefore I will firſt relate unto <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u in Proſe the manner of my chaſtiſement, and what I con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eive to be the cauſe wherefore I was afflicted. <g ref="char:V">Ʋ</g>pon the Lords <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay or Sabbath called <hi>Whitſunday,</hi> in the yeare <hi>1624.</hi> I diſobayed the Lord, and violated that great day in Curſing, Swearing, Drinking, and keeping of bad company, making an Alehouſe, or a worſe place my chiefeſt Sanctuary all that day, from which time my memory was taking from me for ſeaven weekes, that I could never ſince remember any thing I did, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing eight dayes after that offence committed in perfect health, and cannot conceive how I ſpent the next Lords day, but on <hi>Trinity-monday</hi> riding to a wedding my horſe ſlumbled, in a plaine greene way, and caſt me from off his backe upon a ſtone, where (as I am enformed) was ſcarce another ſtone to be ſeene for halfe a mile, thence was I carried home to the <hi>Priory</hi> of <hi>Brecknock</hi> as dead, and lay as one languiſhing for a weeke, having a Phyſitian and a Chyrurgion with me, but could not agree where the fracture was, for outwardly there was no wound to be ſeene, nevertheleſſe the Sirgeon conceiving where the fracture was, (and that I might dye within three dayes if the braine had not vent) immediatly made an inciſion in the
+<pb facs="tcp:33214:3"/>
+Temples on the right ſide of my head, and cutting all the Veine in that place, I bled by report ſix or ſeaven quarts of blood before the veines ſtopt bleeding, yet at the ſeaven weekes end I was almost recovered of that deſperate wound, and my memory came to me againe, but how, when, or where, I was thus chaſtiſed, I know not, nor whether I felt any paine, when I was ſo grie<g ref="char:EOLhyphen"/>vouſly wounded, and cured, I could not, nor can I remember, onely my violating or prophaning the Lords day (before declared) I did, and doe as yet remember, which made me demand of the Surge<g ref="char:EOLhyphen"/>on and others that were about me, at the ſeaven weekes end, how long it was ſince <hi>Whitſuntide.</hi> And being commanded in a dreame to give an account of the Talent which was given me, ſince I repented for violating the Lords day, I have made bold to preſent theſe my endeavours to your charitable cenſures, not doubting but if the reſt of my Talent were manifeſt to the world it would be pleaſing to God and man, moſt beneficiall and uſefull for this Kingdome, and fit for all young Clearkes, Schol<g ref="char:EOLhyphen"/>lers, and Artificers, who underſtand not the <hi>Latine</hi> Tongue: which I wanted my ſelfe before my Lord and Master corrected me.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:33214:3"/>
+            <head>
+               <hi>To the VVorſhipfull and</hi> wor<g ref="char:EOLhyphen"/>thily honoured <hi>HERBRT PRISE</hi> Eſquire, one of the Queenes Majeſties Gentlemen Sewers. To his Vertuous, Religious, and Zealous Wife, the Lady <hi>Goditha Priſe,</hi> heretofore one of the maids of her Majesties privy Chamber, and to their onely Child Miſtreſse <hi>Henriete Maria Priſe,</hi> one of her Majeſties GOD Daughters.</head>
+            <l>MOſt bleſſed three, one God, Divinity</l>
+            <l>Protect thy number (ſacred Trinity)</l>
+            <l>To whom I proſtrate here thy gift, my will,</l>
+            <l>Grant them O Lord the peace of Conſcience ſtill,</l>
+            <l>True honours grace (thou knowſt) I as a Bird</l>
+            <l>Eſcapt the Foulers ſnare when death was fear'd,</l>
+            <l>My braines being chruſht, my Temples crackt, I fled</l>
+            <l>From thence, and by a bleſſed Angell led;</l>
+            <l>The Spirit of grace, my faith, my hope reviv'd,</l>
+            <l>And for theſe ſeaventeene yeares hath me repriv'd</l>
+            <l>From death, to ſhew the world Gods gift, this Story,</l>
+            <l>That Sabbath-Breakers might behold my glory;</l>
+            <l>
+               <pb facs="tcp:33214:4"/>And Gods elect may ſee the reaſon why</l>
+            <l>I was ſo plung'd in dreadfull miſery:</l>
+            <l>The truth it doth declare at large, and how</l>
+            <l>Upon repentance God doth mercy ſhow:</l>
+            <l>This gift is his, which humbly I preſent,</l>
+            <l>In hope you'l pleaſe t'accept the good intent</l>
+            <closer>
+               <signed>
+                  <hi>Of him who praiſe, Your honoured dayes, May Zealous be, Eternallie. His life is yours While heart endures.</hi> THOMAS JONES.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="acrostic">
+            <pb facs="tcp:33214:4"/>
+            <head>Anagram <hi>Herbert Priſe.</hi> her ripe Brest.</head>
+            <head type="sub">An Acroſtick on his name. An Acroſtick on his Anagram in the laſt words of theſe Lines, invented by the Author.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">H</cell>
+                     <cell rows="12">
+                        <l>He made his mothers breſt full ripe in Her; </l>
+                        <l>Ever ſhe hopes her ripe breſt will not Erre; </l>
+                        <l>Religious Zeale within her breſt doth Raigne, </l>
+                        <l>Breſt ripe in him all vice he doth Refraine, </l>
+                        <l>Enrich his heart, (moſt wiſe) his Faith In creaſe, </l>
+                        <l>Ripe is his Breſt, his Soule the Heav'ns would Pleaſe: </l>
+                        <l>The ſhe ripe breſt her Piety Exceeds, </l>
+                        <l>Parting her Zeale to him, in him it Breeds: </l>
+                        <l>Rule Lord his heart and make his fortunes Riſe, </l>
+                        <l>In all reſpects, before great Monarchs Eyes: </l>
+                        <l>Send him true health, true wealth, and let him See, </l>
+                        <l>Each ſev'rall good deſcendeth downe from Thee. </l>
+                     </cell>
+                     <cell role="label">H</cell>
+                  </row>
+                  <row>
+                     <cell role="label">E</cell>
+                     <cell role="label">E</cell>
+                  </row>
+                  <row>
+                     <cell role="label">R</cell>
+                     <cell role="label">R</cell>
+                  </row>
+                  <row>
+                     <cell role="label">B</cell>
+                     <cell role="label">R</cell>
+                  </row>
+                  <row>
+                     <cell role="label">E</cell>
+                     <cell role="label">I</cell>
+                  </row>
+                  <row>
+                     <cell role="label">R</cell>
+                     <cell role="label">P</cell>
+                  </row>
+                  <row>
+                     <cell role="label">T</cell>
+                     <cell role="label">E</cell>
+                  </row>
+                  <row>
+                     <cell role="label">P</cell>
+                     <cell role="label">B</cell>
+                  </row>
+                  <row>
+                     <cell role="label">R</cell>
+                     <cell role="label">R</cell>
+                  </row>
+                  <row>
+                     <cell role="label">I</cell>
+                     <cell role="label">E</cell>
+                  </row>
+                  <row>
+                     <cell role="label">S</cell>
+                     <cell role="label">S</cell>
+                  </row>
+                  <row>
+                     <cell role="label">E</cell>
+                     <cell role="label">T</cell>
+                  </row>
+               </table>
+            </p>
+            <lg>
+               <l>The Capitalls beginning ſhewes his name,</l>
+               <l>Thoſe in the ends declares his Anagram.</l>
+            </lg>
+         </div>
+         <div type="acrostic">
+            <pb facs="tcp:33214:5"/>
+            <head>
+               <hi>Goditha Priſe</hi> Praiſe thy God.</head>
+            <head type="sub">An Acroſtick on her name. An Acroſtick on her Anagram.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">G</cell>
+                     <cell rows="13">
+                        <l>Great Mountaines ſtoope let <hi>Cedars</hi> have the <hi>Praiſe,</hi> 
+                        </l>
+                        <l>O're Hills, o're Dales, Gods glory they doe Raiſe, </l>
+                        <l>Deepe Seas and Flouds the Sunne doth oft Annoy, </l>
+                        <l>In ev'ry place the Sun's the <hi>Cedars</hi> Joy; </l>
+                        <l>Then <hi>Praiſe thy God</hi> brave <hi>Cedar,</hi> truly Send </l>
+                        <l>Him thy beſt ſap, his bleſſings hath no End. </l>
+                        <l>All bleſſed pow'rs, whoſe Patience man doth Try, </l>
+                        <l>Powre down your grace on her, <hi>Praiſe God</hi> on Hye, </l>
+                        <l>Rare <hi>Cedar</hi> bleſt Gods Heav'nly ſhade Intreat, </l>
+                        <l>Immortall Tree, moſt bleſt, moſt high, moſt Great </l>
+                        <l>Spread forth, and <hi>Praiſe thy God,</hi> thou art his Owne, </l>
+                        <l>Extoll his name who ſends all bleſſings Downe, </l>
+                     </cell>
+                     <cell role="label">P</cell>
+                  </row>
+                  <row>
+                     <cell role="label">O</cell>
+                     <cell role="label">R</cell>
+                  </row>
+                  <row>
+                     <cell role="label">D</cell>
+                     <cell role="label">A</cell>
+                  </row>
+                  <row>
+                     <cell role="label">I</cell>
+                     <cell role="label">J</cell>
+                  </row>
+                  <row>
+                     <cell role="label">T</cell>
+                     <cell role="label">S</cell>
+                  </row>
+                  <row>
+                     <cell role="label">H</cell>
+                     <cell role="label">E</cell>
+                  </row>
+                  <row>
+                     <cell role="label">A</cell>
+                     <cell role="label">T</cell>
+                  </row>
+                  <row>
+                     <cell role="label">P</cell>
+                     <cell role="label">H</cell>
+                  </row>
+                  <row>
+                     <cell role="label">R</cell>
+                     <cell role="label">I</cell>
+                  </row>
+                  <row>
+                     <cell role="label">I</cell>
+                     <cell role="label">G</cell>
+                  </row>
+                  <row>
+                     <cell role="label">S</cell>
+                     <cell role="label">O</cell>
+                  </row>
+                  <row>
+                     <cell role="label">E</cell>
+                     <cell role="label">D</cell>
+                  </row>
+               </table>
+            </p>
+            <lg>
+               <l>The <hi>Capitalls</hi> beginning ſhewes her name,</l>
+               <l>Thoſe at the ends declares her <hi>Anagram.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="acrostic">
+            <pb facs="tcp:33214:5"/>
+            <head>Anagram. <hi>Henriete Maria Priſe,</hi> I remaine the aſpirer.</head>
+            <head type="sub">An Acroſtick on her name </head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">H</cell>
+                     <cell rows="8">
+                        <l>Here is that <hi>Cedars Branch</hi> whoſe name aſpire,</l>
+                        <l>Exalted by a Queene, what Subject higher?</l>
+                        <l>Now <hi>Praiſe thy God</hi> ſweet branches Roote againe</l>
+                        <l>Rejoyce in him, his love doth ſtill remaine.</l>
+                        <l>I ſaith the Lord, will powre on them my grace,</l>
+                        <l>Even I will ſhield this <hi>Branch</hi> in ev'ry place;</l>
+                        <l>Th' immortall life that comes in ev'ry bud,</l>
+                        <l>Encreaſe her ſtrength, and feed her with thy blood.</l>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">E</cell>
+                  </row>
+                  <row>
+                     <cell role="label">N</cell>
+                  </row>
+                  <row>
+                     <cell role="label">R</cell>
+                  </row>
+                  <row>
+                     <cell role="label">I</cell>
+                  </row>
+                  <row>
+                     <cell role="label">E</cell>
+                  </row>
+                  <row>
+                     <cell role="label">T</cell>
+                  </row>
+                  <row>
+                     <cell role="label">E</cell>
+                  </row>
+                  <row>
+                     <cell cols="2"> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">M</cell>
+                     <cell rows="10">
+                        <l>Maintaine this <hi>Branch</hi> aſpiring, with thy love,</l>
+                        <l>And bleſſe her Dayes, make her a Turtle Dove:</l>
+                        <l>Regard the Zeale of this young <hi>Branthers Steke,</hi>
+                        </l>
+                        <l>Increaſe their Faith, they are thy ſheepe, thy Flocke;</l>
+                        <l>All joyfull Trees and Plants about them grow,</l>
+                        <l>Palme Trees and <hi>Cedars</hi> unto them ſhall Bowe:</l>
+                        <l>Rare vines ſhall twiſt about this <hi>Branch,</hi> a Tree</l>
+                        <l>In Time, but then a <hi>Cedar</hi> ſhe ſhall bee,</l>
+                        <l>Sweet, vertuous, lovely, comely to behold,</l>
+                        <l>Each ſprig and leafe ſhall be of beaten Gold.</l>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">A</cell>
+                  </row>
+                  <row>
+                     <cell role="label">R</cell>
+                  </row>
+                  <row>
+                     <cell role="label">I</cell>
+                  </row>
+                  <row>
+                     <cell role="label">A</cell>
+                  </row>
+                  <row>
+                     <cell role="label">P</cell>
+                  </row>
+                  <row>
+                     <cell role="label">R</cell>
+                  </row>
+                  <row>
+                     <cell role="label">I</cell>
+                  </row>
+                  <row>
+                     <cell role="label">S</cell>
+                  </row>
+                  <row>
+                     <cell role="label">E</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:33214:6"/>
+            <head>To all true Chriſtians, <hi>REAERS</hi> and others.</head>
+            <l>SIth Schollers Toads and Spiders doe commend,</l>
+            <l>I hope a Tradeſ-mans Mite cannot offend;</l>
+            <l>Such venomous creatures Chriſtians loath, or hate,</l>
+            <l>But this my Mite may prove more fortunate;</l>
+            <l>Yet Toads and Spiders ſerve God in their kind,</l>
+            <l>And doth his will, whereto they are aſſign'd:</l>
+            <l>Each creeping thing's ordain'd by Gods decree,</l>
+            <l>All things were made for man in ſome degree,</l>
+            <l>The Poyſon which makes vermine breake, or ſwell,</l>
+            <l>Moſt precious is, Phyſitians beſt can tell:</l>
+            <l>Yet though they loathſome are to mortall eyes,</l>
+            <l>Within this world their ſhame and ſorrow dyes:</l>
+            <l>But man who ſins on earth continually,</l>
+            <l>Death ſhall not end his ſhame, nor miſery;</l>
+            <l>Then doth his woe begin, for whom I pray,</l>
+            <l>Although they ſcorne and hate what now I ſay,</l>
+            <l>Then ſhall he know that God caus'd me to write,</l>
+            <l>The Sabbaths praiſe, (his gift) or Tradeſ-mans Mite,</l>
+            <l>Then ſhall proud gallants wiſh would they had bin</l>
+            <l>As weake as I, or vermine void of ſin,</l>
+            <l>Sin's therefore worſe then death, then Hell, the Devil,</l>
+            <l>And of all ſin, Pride is the greateſt evil,</l>
+            <l>
+               <pb facs="tcp:33214:6"/>Pride makes men hate, and loath, and ſcorne the poor,</l>
+            <l>Yet ſhall a Tradeſ-mans Mite ſtrike every door,</l>
+            <l>Open therefore and let inſtruction in,</l>
+            <l>Obſerve Gods day with zeale, abandon ſin,</l>
+            <l>Then in this world thou ſhalt begin true joy,</l>
+            <l>For Death and Hell Chriſt Jeſus did deſtroy:</l>
+            <l>Though Reprobates this Mite doth diſcommend,</l>
+            <l>The gift of God my faith ſhall have no end.</l>
+            <p>
+               <hi>Before I declare the manner of that fearefull Acciden<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> (which I conceive happened to me for prophaning the Sabbath of the Lord my God) I will recite unto you the firſt <g ref="char:V">Ʋ</g>erſes tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ever I made, which is the gift of God beſtowed on me ſince h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Chaſtiſement, contayning a Dialogue betweene my Soule an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Body. And in the end of this Pamphlet, you ſhall ſee the Praye<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which I made when I was deprived of my ſpeech and Sences<g ref="char:punc">▪</g>
+               </hi>
+            </p>
+            <p>
+               <hi>An</hi> Acroſtick Elegie <hi>on my brothers name, made at th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Newes <hi>of his death, my deſcent, my owne, and wives Ana<g ref="char:EOLunhyphen"/>grams, her deſcent, an</hi> Acroſtick <hi>on her name, made on th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> words ſhe ſpake on her Death-bed, I lamentted her death, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> concluded with a thanksgiving and Prayer in</hi> Verſe.</p>
+            <p>
+               <hi>To which Booke I have added an Antidot f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r troubled Soule<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or the fruit of repentance, which a friend delivered unto me ſin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I was recovered of my numneſſe.</hi>
+            </p>
+         </div>
+         <div type="dialogue">
+            <pb facs="tcp:33214:7"/>
+            <head>The Authors firſt beginning to make Verſes, which ſtraine came naturally to him ſince his affliction.</head>
+            <head>A Dialogue betweene his Soule and Bodie. <hi>The Argument.</hi>
+            </head>
+            <argument>
+               <l>
+                  <hi>I</hi> Lay amaz'd when as I ſeem'd as dead,</l>
+               <l>I thought my Soule was from my Body fled,</l>
+               <l>The wings did take, and through the Clouds did ſore,</l>
+               <l>Which made me faint, then God I did implore,</l>
+               <l>To view my dolefull, wretched, ghaſtly plight,</l>
+               <l>Moſt weake, as dead I ſeem'd in mortalls ſight:</l>
+               <l>Then 'twas Gods will we ſhould diſcourſe in Verſe,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n theſe plaine tearmes which now I will rehearſe.</l>
+            </argument>
+            <pb facs="tcp:33214:7"/>
+            <head>THE DIALOGUE.</head>
+            <lg>
+               <head>SO<g ref="char:V">Ʋ</g>LE.</head>
+               <l>I Like a Pilgrime wandred to and fro,</l>
+               <l>Twixt heav'n &amp; earth, ſtill croſt by mans dread fo,</l>
+               <l>To heaven I fled where bleſſed Soules remaine,</l>
+               <l>The ſpirit from thence did ſend me backe againe</l>
+               <l>To earth, to thee from whom amaz'd I fled,</l>
+               <l>When gapsing on the ground thou layſt as dead:</l>
+               <l>Then he who doth by feare his ſervants prove,</l>
+               <l>Sent me againe to teſtifie his love.</l>
+            </lg>
+            <lg>
+               <head>BODY.</head>
+               <l>VVElcome ſweet ſoule thrice welcome unto me,</l>
+               <l>We liv'd as one, I thought we did agree;</l>
+               <l>I wept, I mournd, ſince you did me disdaine,</l>
+               <l>As dead I liv'd, which caus'd me to complaine:</l>
+               <l>A ſudden death I ever thought a curſe,</l>
+               <l>But your departure made mine ſeeme far worſe;</l>
+               <l>Yet ſenſeleſſe did I live, I felt no paine,</l>
+               <l>Nor know I when, or how I did complaine.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:33214:8"/>
+               <head>SO<g ref="char:V">Ʋ</g>LE.</head>
+               <l>VVHen from earth's Center I did mount on high,</l>
+               <l>The damned Fiend purſu'd me inſtantly,</l>
+               <l>And there proclam'd what ſins I did commit,</l>
+               <l>Which made me quake, and feare, and tremble. Yet</l>
+               <l>My faith, my hope and feare, together ſtrave,</l>
+               <l>Faith hope embrac'd, but feare no reſt could have:</l>
+               <l>Then did my chiefe commander this decree,</l>
+               <l>That I ſhould redeſcend to earth in thee.</l>
+            </lg>
+            <lg>
+               <head>BODY.</head>
+               <l>GOds juſtice is ſevere, yet mercy found</l>
+               <l>Me out, when I lay tumbling on the ground,</l>
+               <l>And then I thought th' immortall ſpirit ſaid,</l>
+               <l>Chriſt dy'd for him ſad ſoule be not afraid,</l>
+               <l>Returne, returne, let nothing thee diſmay,</l>
+               <l>Chriſt is thy life, thy health, thy helpe, thy ſtay;</l>
+               <l>The Trine that's bleſt likewiſe thoſe words he ſpake,</l>
+               <l>When death perforce would thy poſſeſſion take.</l>
+            </lg>
+            <lg>
+               <head>SO<g ref="char:V">Ʋ</g>LE.</head>
+               <l>THy faith, thy hope, hath ſent me backe with joy,</l>
+               <l>Abandon feare, Chriſt will our Foes deſtroy,</l>
+               <l>Thy faith God ſaw, thy hope, thy heart, thy zeale,</l>
+               <l>When at his feet I humbly did appeale;</l>
+               <l>
+                  <pb facs="tcp:33214:8"/>His ſacred ſpirit ſhew'd thee then his will,</l>
+               <l>Cauſe on his mercy thou dependedſt ſtill;</l>
+               <l>Now ſee, behold, his love hath ſent me backe</l>
+               <l>To thee, his grace therefore we ſhall not lacke.</l>
+            </lg>
+            <lg>
+               <head>BODY.</head>
+               <l>AS heav'n bright Sun doth cleare the miſti'ſt morn,</l>
+               <l>So doth my ſoule refreſh my heart forlorne,</l>
+               <l>As heav'nly dewes the parched earth doe cheriſh,</l>
+               <l>So doth my ſoule my heart, who thought to periſh;</l>
+               <l>As <hi>Cynthias</hi> beames makes cleare the ſable night,</l>
+               <l>So bright my ſoule doth ſhine, to me moſt light;</l>
+               <l>As heav'n and earth obeys our God the chiefe,</l>
+               <l>So would my heart, his will be done in briefe.</l>
+            </lg>
+            <lg>
+               <head>SO<g ref="char:V">Ʋ</g>LE.</head>
+               <l>THy hapleſſe fall a happy chance did prove,</l>
+               <l>Thy faith, thy hope hath gaind thy Saviours love</l>
+               <l>That ſuddaine fearefull ſpectacle moſt ſtrange,</l>
+               <l>Declares thy faith, which ſcornes for feare to change;</l>
+               <l>God turneth griefe and feare to happy ends;</l>
+               <l>Moſt happy they who on his aid depends,</l>
+               <l>Such is thy faith, thy griefe, thy feare alſo,</l>
+               <l>Which ſhewes Gods love and mercy after wo.</l>
+            </lg>
+            <lg>
+               <head>BODY.</head>
+               <l>
+                  <pb facs="tcp:33214:9"/>LO, where Gods dreadfull ſtreame did runne, there grows</l>
+               <l>Faith, hope &amp; zeale, his mercy it o' reflows,</l>
+               <l>My ſhield is Chriſt, the Trinity I praiſe,</l>
+               <l>Whoſe love and mercy hath prolong'd my dayes;</l>
+               <l>With ardent zeale I will on God depend,</l>
+               <l>Sweet ſoule revive, my ſorrows here ſhall end:</l>
+               <l>Let mutuall love in us againe be ſeene,</l>
+               <l>More ſtrong, more firme, then heretofore hath beene.</l>
+            </lg>
+            <lg>
+               <head>SO<g ref="char:V">Ʋ</g>LE.</head>
+               <l>ALthough thy foule fraile ſpotted ſins did draw</l>
+               <l>Gods direfull wrath on thee, obſerve his Law:</l>
+               <l>Th' Apoſtle <hi>Paul</hi> Chriſts Goſpel did deny,</l>
+               <l>The Prophet <hi>Ionas</hi> thought from God to flye,</l>
+               <l>Yet God in mercy did their ſins forgive,</l>
+               <l>And they eternally with him ſhall live:</l>
+               <l>Therefore O Lord keepe us from Satans clawes,</l>
+               <l>And hunger ſtarve his guts and greedy jawes.</l>
+            </lg>
+            <lg>
+               <head>SO<g ref="char:V">Ʋ</g>LE and BODY.</head>
+               <l>HEre on the earth againe in one we live,</l>
+               <l>Heav'ns grant we may no more offend, nor grieve,</l>
+               <l>Bleſt be the night when feare did make her us part,</l>
+               <l>Bleſt be that day when God did prove my heart,</l>
+               <l>Bleſſed be him who did Gods wrath appeaſe,</l>
+               <l>Bleſſed be him who doth my faith increaſe:</l>
+               <l>Bleſſe me yee pow'rs divine, (three one moſt wiſe,)</l>
+               <l>Make all my thoughts and deeds pleaſe thy bleſt eyes.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:33214:9"/>
+            <head>A WARNING FOR Sabbath-Breakers.</head>
+            <lg>
+               <l>VVHen as the All-ſeeing God of Gods did give</l>
+               <l>The Reins to me, I careleſly did live,</l>
+               <l>For on his great and Sacred day of reſt,</l>
+               <l>His Sabbath made for man, which he hath bleſt,</l>
+               <l>I with the vulgar ran and did tranſgreſſe</l>
+               <l>His chiefe command, which here I will expreſſe:</l>
+               <l>On <hi>Whitſunday</hi> that's paſt was ſixteene yeere,</l>
+               <l>I groſly ſin'd, eſchewing griefe and feare,</l>
+               <l>For in the morne when from the bed <hi>I</hi> roſe,</l>
+               <l>The world, the fleſh, the Divell did diſpoſe</l>
+               <l>Of me, and made me rave, diſdaine and ſweare,</l>
+               <l>My heart was vext, which made me then forbeare</l>
+               <l>To goe to Church, to eaſe my troubled mind,</l>
+               <l>But in an Ale-houſe thought more eaſe to find,</l>
+               <l>Where <hi>I</hi> Tobacco tooke, and healths did drinke,</l>
+               <l>Of <hi>Whitſunday I</hi> never once did thinke,</l>
+               <l>Nor of Gods will, that morne <hi>I</hi> thus did ſpend,</l>
+               <l>Till Divine prayers, and Sermon both did end;</l>
+               <l>Then in that Ale-houſe <hi>I</hi> my dinner tooke,</l>
+               <l>Gods word, his Houſe, that day my heart forſooke,</l>
+               <l>
+                  <pb facs="tcp:33214:10"/>Yet after noone <hi>I</hi> to my Maſter went</l>
+               <l>To waite on him to Church, but my intent</l>
+               <l>Was croſt by ſloth, for by the way <hi>I</hi> met</l>
+               <l>His ſpouſe and him, and children all compleat,</l>
+               <l>Then with his ſervants did I goe along</l>
+               <l>Unto the Church, but from that zealous throng</l>
+               <l>
+                  <hi>I</hi> did depart, and <hi>I</hi> againe did goe</l>
+               <l>Unto thoſe joviall lads, whoſe zeale <hi>I</hi> know</l>
+               <l>For my returne did ſtay, among them there</l>
+               <l>
+                  <hi>I</hi> tippled ſtill, Gods wrath we did not feare.</l>
+               <l>But when <hi>I</hi> askt if Evening prayer were done,</l>
+               <l>A Maid replyd that Sermon was begun.</l>
+               <l>Then up we ſtood, a health we did begin,</l>
+               <l>A Frollicke cal'd, no thought that day of ſin,</l>
+               <l>But when we thought that Sermon was nere ended,</l>
+               <l>To Church we did repaire, yet <hi>I</hi> attended</l>
+               <l>Still at the doore, as if at Church <hi>I</hi> was</l>
+               <l>With zeale devout, but this <hi>I</hi> brought to paſſe</l>
+               <l>When from Gods Houſe we all departed home,</l>
+               <l>
+                  <hi>I</hi> privatly deſir'd my Maſters groome</l>
+               <l>To helpe me to a horſe, that <hi>I</hi> might goe</l>
+               <l>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note>To viſit her, whom he too well did know;</l>
+               <l>Which he with ſpeed perform'd cauſe ſicke he lay,</l>
+               <l>There did I ſpend the reſt of Gods bleſt day;</l>
+               <l>But how or when <hi>I</hi> did returne againe,</l>
+               <l>Or where the horſe <hi>I</hi> rid on did remaine,</l>
+               <l>Or eight dayes after being ſound and well,</l>
+               <l>What then <hi>I</hi> did, <hi>I</hi> never ſince can tell:</l>
+               <l>But by report of honeſt worthy men,</l>
+               <l>On Trinity munday next that followed then,</l>
+               <l>
+                  <pb facs="tcp:33214:10"/>A ſpeciall friend repoſed truſt in me,</l>
+               <l>To gaine a Licence for him ſpeedily:</l>
+               <l>Then to my friend the Regiſter <hi>I</hi> went,</l>
+               <l>Who inſtantly petformed my intent,</l>
+               <l>He forthwith brought the Licence ſeald to me,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or which <hi>I</hi> paid to every Clarke his fee;</l>
+               <l>That Antidote <hi>I</hi> thought with ſpeed to bring,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o eaſe their hearts who felt blind <hi>Cupids</hi> ſting;</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut they who thought each houre, I ſtayd a day,</l>
+               <l>With all their friends began to lead the way:</l>
+               <l>Cauſe Evening came, and far they had to ride</l>
+               <l>Unto the houſe who for them did provide,</l>
+               <l>Then after them I rid with joy and ſpeed,</l>
+               <l>To ſhew my love <hi>I</hi> brought them what they need,</l>
+               <l>Their Licence 'twas, for which they long had ſtaid,</l>
+               <l>The ſight of it did make their hearts apaid;</l>
+               <l>When they the ſame receiv'd I went on ſtill,</l>
+               <l>Till <hi>Phoebus</hi> light was clouded with a hill;</l>
+               <l>Then from them did I part, with many mo,</l>
+               <l>Who thought with me to <hi>Brecknocke</hi> back to go,</l>
+               <l>But marke the end, when we were at a ſtand,</l>
+               <l>A Glo-worme came and lighted on my hand,</l>
+               <l>Then did <hi>I</hi> ride before when it was night,</l>
+               <l>And bragging ſaid, that God had ſent me light,</l>
+               <l>With that <hi>I</hi> fell from of my horſes backe,</l>
+               <l>And on a ſtone, my ſcull I there did cracke;</l>
+               <l>My friends amazed ſtood, <hi>I</hi> lay as dead,</l>
+               <l>No wound they ſaw, but inwardly I bled,</l>
+               <l>Which ſtroake my friends and fellows in a feare,</l>
+               <l>Some griev'd &amp; ſigh'd, and ſome their haire did teare</l>
+               <l>
+                  <pb facs="tcp:33214:11"/>Far from a houſe it was where I did lye,</l>
+               <l>What comfort could they have if I ſhould dye,</l>
+               <l>Upon their hands? each to their friends did goe,</l>
+               <l>And my diſaſter told, their feare, my woe.</l>
+               <l>Then God awak'd a friend who heard the matter,</l>
+               <l>He ran with ſpeed and brought me his ſtrong-water,</l>
+               <l>His daughters followed him, they did repaire</l>
+               <l>Where I did lye, thither they brought a chaire,</l>
+               <l>His water did my heart and ſoule revive,</l>
+               <l>And made both life and death begin to ſtrive</l>
+               <l>In me; within the chaire was I layd,</l>
+               <l>And to his houſe I gently was conveyd;</l>
+               <l>And by relation there of many a one,</l>
+               <l>In halfe a mile was ſcarce another ſtone,</l>
+               <l>For to be ſeene, ſave that whereon I fell,</l>
+               <l>Yet where or how it was I cannot tell:</l>
+               <l>The Groome more bold and ventrous then the reſt,</l>
+               <l>Unto my Maſter rid, and him poſſeſt,</l>
+               <l>By breake of day what dire miſchance I had</l>
+               <l>Who roſe with ſpeed and came to me (moſt ſad)</l>
+               <l>By that time came a Surgeon unto me</l>
+               <l>To view my corps, but he no wound could ſee,</l>
+               <l>With him my Maſter ſtayd foure houres and more,</l>
+               <l>And they with all my friends did God implore</l>
+               <l>To ſave my life, I ſcarcely then had breath,</l>
+               <l>Which they perceiv'd, and gave me ore for death;</l>
+               <l>My Maſter then returning, newes was ſpread,</l>
+               <l>What chance I had, and how I lay as dead:</l>
+               <l>Which made my friends lament, and feare, and grieve</l>
+               <l>Yet ſome that ſuddaine newes would ſcarce believe;</l>
+               <l>
+                  <pb facs="tcp:33214:11"/>Moſt of that Country wide, and nere about,</l>
+               <l>Came thither to ſee, and to reſolve their doubt,</l>
+               <l>My Maſter riding home againe did find,</l>
+               <l>The Bayliffe of <hi>Brecknocke</hi> and the Townſmen kind,</l>
+               <l>To me they came, he met them by the way</l>
+               <l>And gave them thanks, they for my life did pray:</l>
+               <l>But ſure ſaid he, my Man is dead ere this,</l>
+               <l>He cannot live, or elſe I aime amiſſe.</l>
+               <l>Therefore you need not take ſuch paines in vaine,</l>
+               <l>Then all (as one) replyd to him againe,</l>
+               <l>We hope he'l live as yet this many a yeare,</l>
+               <l>Yet home he went, and thither ſent a biere,</l>
+               <l>To carry me upon when I was dead,</l>
+               <l>Whereon they plac'd me, underneath my head</l>
+               <l>A Scholler of mine, whom I did teach to write,</l>
+               <l>Thus I as dead did lye in dolefull plight,</l>
+               <l>Then on mens ſhoulders was I carried home,</l>
+               <l>To <hi>Breknocke</hi> Priory, brought into that roome,</l>
+               <l>Wherein I lay full foure yeares and more,</l>
+               <l>A Covenant ſervant in that houſe before,</l>
+               <l>There I no ſooner was layd downe, but ſtraight</l>
+               <l>A Surgeon, and Phyſitian, both did wait</l>
+               <l>To view my mortall corps, and rufull fate,</l>
+               <l>For feare leaſt helpe and skill ſhould come too late.</l>
+               <l>Two dayes they did conſult and feele my head,</l>
+               <l>But diſagreed; then I being almoſt dead,</l>
+               <l>The 'ternall juſt who kils, and doth reſtore</l>
+               <l>To life made them conſult no more:</l>
+               <l>And then the Surgeon found the Brain-pans rent,</l>
+               <l>Who an inciſion made to give it vent;</l>
+               <l>
+                  <pb facs="tcp:33214:12"/>The fracture in the Temples he had found,</l>
+               <l>Where he did make a deſp'rate bloody wound,</l>
+               <l>There he the vaines did cut, then as a flood</l>
+               <l>Did iſſue thence, abundance of my blood,</l>
+               <l>In ſtreames it ran, till <hi>I</hi> had loſt my breath,</l>
+               <l>Then all men fear'd that <hi>I</hi> ſhould bleed to death:</l>
+               <l>Yet after <hi>I</hi> ſix quarts, or ſeaven did bleed,</l>
+               <l>My blood did ſtop, and <hi>I</hi> from paine was freed:</l>
+               <l>Then did my worthy Maſter ſend againe,</l>
+               <l>To divers Shires a Surgeon to obtaine</l>
+               <l>Who had more skill, for <hi>I</hi> was growne moſt weake,</l>
+               <l>Languiſh <hi>I</hi> did, they thought <hi>I</hi> could not ſpeake:</l>
+               <l>Thus <hi>I</hi> remain'd, a weeke (they ſay) and more,</l>
+               <l>In wofull caſe, impatience made me rore,</l>
+               <l>With me the Surgeon and Phyſition ſtaid,</l>
+               <l>Expecting ſtill to have more skilfull aid;</l>
+               <l>Now when 'twas thought that <hi>I</hi> was almoſt ſpent,</l>
+               <l>A skilfull Surgeon unto me God ſent</l>
+               <l>Out of, <hi>Glamorganſhire,</hi> from thence he came</l>
+               <l>By chance, <hi>Iohn Nichols</hi> was the Surgeons name,</l>
+               <l>Who when he ſaw how ghaſtly <hi>I</hi> did lye,</l>
+               <l>He ſaid <hi>I</hi> was paſt hopes to live, but dye</l>
+               <l>
+                  <hi>I</hi> ſhould ere it were long, and thought it beſt</l>
+               <l>For to with-hold his skill, and not moleſt</l>
+               <l>My lingring life, which made my Maſter grieve,</l>
+               <l>And thence returne; and ſay, he cannot live</l>
+               <l>If he no skill will ſhew, he needs muſt dye,</l>
+               <l>But if his beſt he doth, what remedy?</l>
+               <l>Then when my Maſters griefe and feare was paſt,</l>
+               <l>Unto the Surgeon he thus ſaid at laſt,</l>
+               <l>
+                  <pb facs="tcp:33214:12"/>Be pleas'd <hi>I</hi> pray to let him dye with skill,</l>
+               <l>That's all <hi>I</hi> crave, for God muſt have his will.</l>
+               <l>The Surgeon then unto my Chamber turn'd,</l>
+               <l>Where many fear'd, and hop'd, and wept, and mourn'd,</l>
+               <l>Then did he raiſe me up; ſmall hopes <hi>I</hi> have</l>
+               <l>Saith he, death I doe ſmell, his life <hi>I</hi> cannot ſave.</l>
+               <l>Yet in the name of God he did begin,</l>
+               <l>To view the wound which <hi>I</hi> had for my ſin:</l>
+               <l>God out of ill drawes good, and who doth know</l>
+               <l>If unto him the Lord will mercy ſhow,</l>
+               <l>While that he breathes (ſaith he) in hope <hi>I</hi> live,</l>
+               <l>That God in mercy will aſſiſtance give</l>
+               <l>To what <hi>I</hi> undertake, <hi>I</hi> muſt confeſſe,</l>
+               <l>Ten thouſand in the world are kil'd with leſſe;</l>
+               <l>A ſtroake upon the Temples of the head,</l>
+               <l>Without a wound or fracture ſtrikes men dead,</l>
+               <l>Therefore my brother Surgeon ſhewd his skill,</l>
+               <l>Whoſe aid <hi>I</hi> crave, I ſhall applaud him ſtill:</l>
+               <l>If in the head the fracture were not found</l>
+               <l>Before this time he had beene in the ground:</l>
+               <l>In <hi>Brecknockeſhire</hi> he lives, one of his name</l>
+               <l>Did live in <hi>Hereford,</hi> and dy'd with fame,</l>
+               <l>He was a noted Surgeon of account,</l>
+               <l>Who to the ſeat of juſtice there did mount,</l>
+               <l>When <hi>I</hi> a Schoole-boy was, he then was Maior,</l>
+               <l>And ore the Citty ſwaid in juſtice chaire,</l>
+               <l>His name was <hi>Thomas Williams,</hi> there approv'd</l>
+               <l>For knowledge, wit and skill, of all belov'd.</l>
+               <l>My Surgeon here is of that name, and nature,</l>
+               <l>Ordain'd of God, to make me live Gods creature,</l>
+               <l>
+                  <pb facs="tcp:33214:13"/>And here on earth his ſervant would I be,</l>
+               <l>To blaze his love and mercy unto me,</l>
+               <l>This dreadfull newes to <hi>Hereford</hi> did come,</l>
+               <l>Which ſtruck my brother, friends, and mother dumbe,</l>
+               <l>Then ſhe who never thought to viſit <hi>Wales,</hi>
+               </l>
+               <l>God did appoint to mount thoſe hils and dales,</l>
+               <l>If any were within that ſad ſhort way,</l>
+               <l>She did not them reſpect, with delay:</l>
+               <l>She and my brother came with ſpeed to ſee,</l>
+               <l>What dire miſchance had happened unto me.</l>
+            </lg>
+            <lg>
+               <l>Oh! for my ſins is was on God bleſt day,</l>
+               <l>For which my Conſcience makes me faſt and pray,</l>
+               <l>His Sabbath I prophaned ſundry times,</l>
+               <l>But ſpecially I grieve for all thoſe crimes,</l>
+               <l>I did on <hi>Whitſunday</hi> (declar'd before)</l>
+               <l>Which caus'd the Lord to puniſh me ſo ſore:</l>
+               <l>Wherefore with heart and ſoule I dayly pray,</l>
+               <l>That I may truely keepe his Sabbath day.</l>
+               <l>Lord make the world deteſt that great offence,</l>
+               <l>And let all Chriſtians have that ſpirituall ſence.</l>
+            </lg>
+            <lg>
+               <l>The Surgeon whom God ſent began to try,</l>
+               <l>His hopefull skill, my wound he did unty,</l>
+               <l>The ſharpe inciſion made, he open layd,</l>
+               <l>Which made (my friends) the lookers on affraid,</l>
+               <l>Saying with feare, if more blood this man ſpill,</l>
+               <l>He needs muſt dye, yet doth he dye with skill;</l>
+               <l>Then he replyd, thinke you my skill ſo ſmall,</l>
+               <l>VVhat ere I doe there ſhall not much blood fall</l>
+               <l>From him, my fleſh he ſcar'd as he thought good,</l>
+               <l>And with his fingers ſtill he ſtopt the blood,</l>
+               <l>
+                  <pb facs="tcp:33214:13"/>My skin he flaid, and did raſpe out that bone</l>
+               <l>Which in my temples cract upon a ſtone;</l>
+               <l>But by Gods providence and Surgeons skill,</l>
+               <l>A ſpoonfull more of blood he did not ſpill,</l>
+               <l>The bone wraſpt up it ſmeld egregiouſly,</l>
+               <l>And ore the braine he ſaid three skins did lye,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f each of them were putrify'd, then he</l>
+               <l>May linger yet, but long he cannot be</l>
+               <l>Alive, two tainte, where the third was not</l>
+               <l>With putrifaction ſtain'd, blemiſh, or ſpot;</l>
+               <l>Whereat my friends and Surgion did rejoyce,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n hope the Lord my God did heare the voice</l>
+               <l>Of ſome that prayd, yet they an alteration</l>
+               <l>Feard, which fell beyond mans expectation;</l>
+               <l>For God himſelfe which did my fleſh torment,</l>
+               <l>Reviv'd my ſoule, and made my heart repent,</l>
+               <l>Then in the morne before the breake of day,</l>
+               <l>The Surgeon ſent to ſee how quiet I lay,</l>
+               <l>My loving friends who watcht with me that night,</l>
+               <l>With courteous words againe did him requite,</l>
+               <l>Surely ſaid they the Surgeon hands are bleſt,</l>
+               <l>For ſince his fall he tooke not ſo much reſt:</l>
+               <l>The former Surgeon his attendance gave,</l>
+               <l>And all things brought which he deſir'd to have,</l>
+               <l>Their care, their paines, their love did ſtill abound,</l>
+               <l>They griev'd, they fear'd, they hop'd I mercy found</l>
+               <l>With God, and when they hopes of life did ſee,</l>
+               <l>They prais'd the Lord, and each one prayd for me,</l>
+               <l>Then did they view my dreadfull wound againe,</l>
+               <l>And order gave what meats I ſhould refraine,</l>
+               <l>
+                  <pb facs="tcp:33214:14"/>And when my grievous wound they view and dreſt,</l>
+               <l>The Surgeon (God did ſend) made this requeſt,</l>
+               <l>Cauſe I have many patients here, and there,</l>
+               <l>And my long abſence might put them in feare,</l>
+               <l>I pray be pleas'd ſith feare of death is paſt,</l>
+               <l>That unto them againe I now may haſt;</l>
+               <l>His brother <hi>Williams</hi> he would leave with me,</l>
+               <l>For under God he ſav'd your life ſaid he,</l>
+               <l>Had not he found the fracture in the head,</l>
+               <l>And an inciſion made, you had beene dead</l>
+               <l>Before this time, therefore you live to God,</l>
+               <l>All comes from him, he ſmote you with his rod;</l>
+               <l>Theſe words my Maſters pleas'd my friends alſo,</l>
+               <l>Who ſaid to him, you know your time to goe,</l>
+               <l>Let us not hinder you, goe when you pleaſe,</l>
+               <l>For God appointed you to give him eaſe,</l>
+               <l>After which time he two dayes more did ſtay,</l>
+               <l>But then with ſpeed he ſeem'd to poſt away;</l>
+               <l>The former Surgeon then his skill did ſhew,</l>
+               <l>But how this wound I had I did not know;</l>
+               <l>For after I abus'd the Sabbath day,</l>
+               <l>I did remaine in health a weeke (they ſay)</l>
+               <l>And more, but all that time I cannot tell</l>
+               <l>What ere I did, being then both ſound and well,</l>
+               <l>Nor ſix weekes after I was hurt (alas)</l>
+               <l>Nothing I know, nor how it came to paſſe,</l>
+               <l>But by relation I will make it knowne,</l>
+               <l>Wherefore Gods judgement was upon me ſhowne,</l>
+               <l>It was for mine offence ſeven weekes before,</l>
+               <l>Which ſtill I doe remember, but no more,</l>
+               <l>
+                  <pb facs="tcp:33214:14"/>Saving thoſe things I did on <hi>Whitſunday,</hi>
+               </l>
+               <l>For then <hi>I</hi> know from God <hi>I</hi> went aſtray:</l>
+               <l>Within ſix weekes the Surgeon came againe</l>
+               <l>To me, but then (they ſaid) <hi>I</hi> told him plaine,</l>
+               <l>
+                  <hi>I</hi> knew him not, wherefore he did reply,</l>
+               <l>Your braines <hi>I</hi> felt when you were like to dye,</l>
+               <l>Witneſſe this bone which then <hi>I</hi> tooke from you,</l>
+               <l>My friends did ſay (alas) it's too too true,</l>
+               <l>He under God did ſave your life on earth,</l>
+               <l>And gave a being to your ſecond birth;</l>
+               <l>Then as a child <hi>I</hi> did begin to goe,</l>
+               <l>And ſenſeleſſe liv'd of griefe, of paine, of woe;</l>
+               <l>My mother and my friends newly did grieve,</l>
+               <l>And prayd, that <hi>I</hi> ſo ſimple might not live,</l>
+               <l>They of a wedding ſpeake, where <hi>I</hi> had beene,</l>
+               <l>Wiſhing that <hi>I</hi> thoſe parties nere had ſeene;</l>
+               <l>Whereat <hi>I</hi> mus'd, for <hi>I</hi> had cleane forgot</l>
+               <l>The ſame, alas ſaid <hi>I, I</hi> know it not,</l>
+               <l>Hath not the Lord new moulded me agen,</l>
+               <l>And makes me now a ſpectacle for men</l>
+               <l>To gaze upon: but tis my makers pleaſure,</l>
+               <l>Which I imbrace, as worldlings doe their treaſure,</l>
+               <l>His Sabbath I prophan'd, not once, nor twice,</l>
+               <l>But too too oft, for which I Sacrifice</l>
+               <l>Theſe ſighs of mine, my wound it fairely heal'd,</l>
+               <l>Which pleas'd my Surgeon well, yet he appeal'd</l>
+               <l>To God, he could not make me ſpeake againe,</l>
+               <l>Yet I but halfe a yeare did ſo remaine,</l>
+               <l>Nay in a moneth or two my health I had,</l>
+               <l>Though weake and feeble, melancholly ſad,</l>
+               <l>
+                  <pb facs="tcp:33214:15"/>But then my Mother ſhe my double nurſe,</l>
+               <l>Departed home, whereat I griev'd, far worſe</l>
+               <l>To thinke my faculties from me were gon,</l>
+               <l>Which made me ſigh and pray to God alone</l>
+               <l>For grace, and that he would be pleas'd to ſee,</l>
+               <l>My dolefull caſe, my feare, infirmitie.</l>
+               <l>In mercy then my memory he ſent</l>
+               <l>Againe, and gave me grace for to repent,</l>
+               <l>Then on the Sabbath day my thoughts did run,</l>
+               <l>I griev'd, I mourn'd, to thinke what I had done</l>
+               <l>On <hi>Whitſunday</hi> before declar'd, (alas)</l>
+               <l>For which I feare the heav'ns brought this to paſſe</l>
+               <l>On me, and makes me to the world relate</l>
+               <l>The cauſe, that mortall man that ſin may hate,</l>
+               <l>My heart condemnes me ſtill for that offence,</l>
+               <l>Cauſe ſeven weeks after, I had loſt each ſenſe,</l>
+               <l>My memory fayld in all things that I knew</l>
+               <l>Before that time, which I before did ſhew,</l>
+               <l>Then in my griefe I ſlept, and in my ſleepe</l>
+               <l>The Angell ſpoke that did my body keepe.</l>
+               <l>Yet foure, and thou ſhalt be as thou haſt beene,</l>
+               <l>Which made me hope at foure weeks end t'have ſeene</l>
+               <l>It come to paſſe, but that night in a Dreame</l>
+               <l>The Angell ſpake againe, foure yeares I meane,</l>
+               <l>With that I wak't, and prais'd the God of might,</l>
+               <l>Who in my ſleepe reſolv'd my doubt that night,</l>
+               <l>Which made my heart rejoyce, then as I prayd,</l>
+               <l>The ſpirit ſpake againe, and thus it ſaid,</l>
+               <l>Gods ſacred Booke take thou and underſtand</l>
+               <l>His will, read it, and marke what he commands,</l>
+               <l>
+                  <pb facs="tcp:33214:15"/>Doe not deſpaire, he knowes thy judgement's weake,</l>
+               <l>Thy heart he knows, &amp; what thy tongue would ſpeake</l>
+               <l>Obſerve, and note his mercies manifold</l>
+               <l>To haynous ſinners, our fore-forefathers old;</l>
+               <l>Which Booke in time I read, in hope, in feare</l>
+               <l>Yet ſpeechleſſe I remain'd for halfe a yeare,</l>
+               <l>After that dreadfull accident moſt ſtrange;</l>
+               <l>But then my deſperate thoughts to faith did change</l>
+               <l>Now when the Idoll of vaine pleaſure, ſhe</l>
+               <l>Whom on the Lords day I did ride to ſee,</l>
+               <l>Was of her ſickneſſe late recovered quite,</l>
+               <l>Her lewd temptation made my ſoule affright;</l>
+               <l>But then I found God was diſpleas'd likewiſe</l>
+               <l>With her, the Load-ſtone to my miſeries,</l>
+               <l>For on his bleſſed day, his day of reſt,</l>
+               <l>His word I loath'd when ſhe my heart poſſeſt.</l>
+               <l>To her I rid, who likewiſe did prophane</l>
+               <l>Gods day; for which (offence) ſhe came to ſhame.</l>
+               <l>That yeare, ſhe from thoſe parts diſgracefull fled,</l>
+               <l>And in another ſhire was brought to bed;</l>
+               <l>The child being borne, of it ſhe was bereft</l>
+               <l>By death, ere ſince her native place ſhe left,</l>
+               <l>Thefore I pray as God converted me,</l>
+               <l>Doe ſo O Lord to her where ere ſhe be:</l>
+            </lg>
+            <lg>
+               <l>Then from my mother ſpeedily I heard,</l>
+               <l>My father in law lay ſicke, his death ſhe fear'd,</l>
+               <l>Which made me ſtrive to write my mind againe</l>
+               <l>To her, and then I wiſht her to refraine</l>
+               <l>To grieve exceſſively if he ſhould dye,</l>
+               <l>God would provide enough fot her and <hi>I,</hi>
+               </l>
+               <l>
+                  <pb facs="tcp:33214:16"/>After which time, eight dayes he liv'd (the moſt)</l>
+               <l>Then as they ſay, he yeelded up the ghoſt:</l>
+               <l>Which when I heard I griev'd, yet then</l>
+               <l>
+                  <hi>I</hi> thought that God did looke on me agen,</l>
+               <l>And for my mothers good this chance befell,</l>
+               <l>That after ages may this Story tell;</l>
+               <l>When ſhe was married to that ſecond man,</l>
+               <l>
+                  <hi>I</hi> then being Prentice from my Maſter ran,</l>
+               <l>Becauſe <hi>I</hi> griev'd at her unluckie fate,</l>
+               <l>
+                  <hi>I</hi> fear'd her choice would prove unfortunate,</l>
+               <l>Which ſoone did come to paſſe: his gains did ſlip</l>
+               <l>Still through his hands by too oft ſuretiſhip,</l>
+               <l>Which made my mother vex, ſhe wept, ſhe griev'd,</l>
+               <l>Yea ſmall content ſhe had while here he liv'd:</l>
+               <l>Wherefore this dire miſchance the Lord did ſend</l>
+               <l>To me, that ſhe in <hi>Wales</hi> might me attend,</l>
+               <l>But when to <hi>Hereford</hi> ſhe was return'd</l>
+               <l>Within eight dayes ſhe for her husband mourn'd,</l>
+               <l>Whoſe unexpected death perplext her heart;</l>
+               <l>But then Mans chiefe protector tooke her part;</l>
+               <l>On her my thoughts did run, <hi>I</hi> could not reſt</l>
+               <l>Untill ſhe yeelded to my ſmall requeſt;</l>
+               <l>Which onely was that ſhe would live with me,</l>
+               <l>The which the pow'rs divine did firſt decree.</l>
+               <l>With me my fathers name ſhe had againe,</l>
+               <l>'Cauſe I her ſon as husband did remaine,</l>
+               <l>Two yeares being paſt and gon in hope I liv'd,</l>
+               <l>At Bath to gaine my ſpeech, for which I griev'd,</l>
+               <l>Which made me often to be vext and croſt,</l>
+               <l>For all my faculties and ſpeech I loſt;</l>
+               <l>
+                  <pb facs="tcp:33214:16"/>At Bath I ſtayd nine dayes in expectation,</l>
+               <l>Not as brave gallants doe for recreation,</l>
+               <l>But I with Faith and hope my time did ſpend,</l>
+               <l>Then as from Bath I rid, at the Townes end</l>
+               <l>My horſe did ſtumble at a heape of ſtones,</l>
+               <l>Whereon <hi>I</hi> fell, there might <hi>I</hi> breake my bones,</l>
+               <l>My foot within the Srirrop hung to ſhew,</l>
+               <l>My life, my ſoule, my all to God <hi>I</hi> owe,</l>
+               <l>He made my horſe afraid to ſtirre or move,</l>
+               <l>From thence, untill my foot <hi>I</hi> did remove</l>
+               <l>Out of the Stirrop then my friend came in</l>
+               <l>And held my horſe, who ſaw that <hi>I</hi> had bin</l>
+               <l>Deliv'red ſafe from harme, but fearefull ſad,</l>
+               <l>Which made me thinke upon a dreame <hi>I</hi> had,</l>
+               <l>Two yeares before, my heart did then perceive</l>
+               <l>God might my braines daſh out, and me bereave</l>
+               <l>Of life; becauſe <hi>I</hi> did miſtruſt that he</l>
+               <l>At foure yeares end would make me be</l>
+               <l>As I had beene, Lord pardon me for it,</l>
+               <l>And <hi>I</hi> ſhall wait untill thou thinkſt it fit</l>
+               <l>To make me ſound, yet I in <hi>Bristoll</hi> ſtayd</l>
+               <l>At that new well, till I was there afraid</l>
+               <l>Of Gods all-ſeeing power, then did I grieve,</l>
+               <l>Becauſe my faith would not a dreame beleeve;</l>
+               <l>And I returned home againe with ſpeed,</l>
+               <l>Where for my ſecret ſins my heart did bleed,</l>
+               <l>Then did I call to mind what God had pend,</l>
+               <l>There I obſerv'd Gods mercies hath no end;</l>
+               <l>(Made knowne by's Prophets and Apoſtles grave)</l>
+               <l>Which did increaſe my faith, and comfort gave,</l>
+               <l>
+                  <pb facs="tcp:33214:17"/>To me, yea there I markt what fearefull ſin,</l>
+               <l>Our fore-fathers did too too much runne in,</l>
+               <l>Gods mighty wrath they often did provoke,</l>
+               <l>Yet ſoone it vaniſht as the Airy ſmoake:</l>
+               <l>But moſt ſevere he hath beene unto thoſe,</l>
+               <l>Who did his Sabbath breake when they might chooſe,</l>
+               <l>Witneſſe the man who for a ſmall offence</l>
+               <l>On Gods bleſt day, death was his recompence,</l>
+               <l>He onely gathered ſticks to ſerve his need,</l>
+               <l>But from neglect or ſloth it did proceed;</l>
+               <l>God ſeaven dayes did make, and did exempt</l>
+               <l>But one for his owne uſe, now in contempt</l>
+               <l>If man abuſe his Sabbath which he bleſt,</l>
+               <l>And from his worldly labours will not reſt.</l>
+               <l>Or if we lewdly ſpend the Sabbath day,</l>
+               <l>Or careleſſely his ſacred will obey;</l>
+               <l>Or if that day our duties we neglect,</l>
+               <l>For that offence wee may the like expect,</l>
+               <l>But he that gathered ſticks and <hi>I</hi> have bin,</l>
+               <l>Thus plagu'd, that others may abhorre that ſin.</l>
+               <l>Prayſed be God for it, though <hi>I</hi> have beene</l>
+               <l>Ere ſince perplext in mind; yet hath he ſeene</l>
+               <l>Me dayly on my knees for mercy praving,</l>
+               <l>And with repentant teares alwayes am ſaying,</l>
+               <l>O Lord, my God, my faith, my hope encreaſe,</l>
+               <l>My weake petitions grant, when thou ſhalt pleaſe:</l>
+               <l>Yet all thoſe faculties which I enjoy'd,</l>
+               <l>For ſeven yeares, the Lord my God annoy'd.</l>
+               <l>But <hi>I</hi> with faith and hope did alwayes pray</l>
+               <l>Unto him ſtill, whoſe mercy doth o'reſway</l>
+               <l>
+                  <pb facs="tcp:33214:17"/>His juſtice great, for in all ages paſt,</l>
+               <l>Gods dreadfull wrath did but a moment laſt:</l>
+               <l>And his chaſtiſement which in mercy fall,</l>
+               <l>The greater bleſſings doe attend them all,</l>
+               <l>Witneſſe the Thiefe that dyed with our Saviour,</l>
+               <l>His faith upon the Croſſe, his laſt behaviour,</l>
+               <l>Made him with Jeſus Chriſt to live for ever,</l>
+               <l>And with the Saints he Lauds th'Almighty giver</l>
+               <l>Of Heaven and Earth, of joy, of Peace, of Reſt,</l>
+               <l>(The onely man that at his Death was bleſt)</l>
+            </lg>
+            <lg>
+               <l>Now ſeeing in mercy God chaſtiſed me,</l>
+               <l>With faith I hope, my life was his decree,</l>
+               <l>(He turn'd my teares to ſmiles, and in my ſleepe</l>
+               <l>The Spirit that ſpake true promiſe then did keepe)</l>
+               <l>For long before the time was at an end,</l>
+               <l>A married wife from <hi>London</hi> God did ſend,</l>
+               <l>Unto her husband who in <hi>Brecknocke</hi> liv'd,</l>
+               <l>Where he with ſickneſſe was long vext, and griev'd,</l>
+               <l>Now in this ſecond M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>trymoniall knot,</l>
+               <l>Gods love and mercy ſhall not be forgot,</l>
+               <l>For when the Sick-mans meanes was almoſt gon,</l>
+               <l>It was encreaſt (paſt hopes) by God alone,</l>
+               <l>Who made his wife returne to eaſe his heart,</l>
+               <l>And from her gold moſt freely ſhe did part,</l>
+               <l>She travail'd, far and neere, by day, and night,</l>
+               <l>To gaine Phyſitions aid if that ſhe might,</l>
+               <l>No coſt ſhe ſpar'd, no phyſicke did he lacke,</l>
+               <l>But all in vaine, for death at cruſht his backe,</l>
+               <l>Yet God did make their love againe more ſtrong,</l>
+               <l>Then ere it was, which death did croſſe ere long,</l>
+               <l>
+                  <pb facs="tcp:33214:18"/>For <hi>Atropo's</hi> ſtole with his dierfull knife,</l>
+               <l>And ſuddainly did cut his thred of life:</l>
+               <l>Before his death ſhe dream'd by her relation</l>
+               <l>Unto their friends, beyond mans expectation,</l>
+               <l>She being with child was often ſicke with feare,</l>
+               <l>Then in a dreame her Unckle did appeare</l>
+               <l>To her, and to her comfort thus he ſaid:</l>
+               <l>Thinke on Chriſt Jeſus, be not thou diſmaid,</l>
+               <l>On wedneſday thou ſhalt eaſe and comfort have,</l>
+               <l>But when ſhe wak'd the man was in his grave;</l>
+               <l>In duſt and aſhes he was long before,</l>
+               <l>For he had then beene dead ſix yeares and more.</l>
+            </lg>
+            <lg>
+               <l>Her husband being in tomb'd within the earth,</l>
+               <l>Two children ſtrove in her to have their birth,</l>
+               <l>Then two moneths after upon Friday night,</l>
+               <l>Strong throws and labour did her ſoule affright,</l>
+               <l>Yea day by day ſhe was in mortall paine,</l>
+               <l>Untill that hopefull wedneſday came againe,</l>
+               <l>The Mid-wife and her friends this counſell gave,</l>
+               <l>To cut her wombe, that ſhe her life might ſave,</l>
+               <l>But ſhe replied, nay, God forbid that I,</l>
+               <l>Should rip my wombe, no, rather let me dye;</l>
+               <l>But on the wedneſday morne that followed next,</l>
+               <l>Her griefe encreaſt, and ſhe was more perplext,</l>
+               <l>Then from her wombe a ſweet girle there did ſpring,</l>
+               <l>Which did encreaſe her faith, not feare deaths ſting;</l>
+               <l>Yet then her throws encreas'd, ſhe had more paine,</l>
+               <l>Till from her wombe a dead child ſprung againe,</l>
+               <l>Which was a boy, the girle on earth did live</l>
+               <l>Eleaven dayes. Then Chriſt her ſoule did give</l>
+               <l>
+                  <pb facs="tcp:33214:18"/>To God, and all her friends with one accord,</l>
+               <l>Did humbly praiſe th'eternall mighty Lord,</l>
+               <l>Who ſuch a wonder on a ſtranger wrought,</l>
+               <l>The like was never ſeene in <hi>Wales</hi> tis thought,</l>
+               <l>God ſav'd her life paſt hopes, and made her know</l>
+               <l>The day, that his great mercy he would ſhow</l>
+               <l>To her, her friends thus ſaid, ſhe was belov'd</l>
+               <l>Of God, for God her faith and patience prov'd,</l>
+               <l>She was chaſtis'd to ſhew that ſhe was bleſt,</l>
+               <l>God ſpar'd her life, her faith the heavens increaſt,</l>
+               <l>Her love, her care of him who caus'd her wo,</l>
+               <l>Doth ſhew her faith, yet ſhe (they ſaid) muſt do</l>
+               <l>The like (no doubt), Gods glory ſhe muſt raiſe,</l>
+               <l>For which ſhe lives, to gaine eternall praiſe;</l>
+               <l>Ceaſe doting Muſe in vaine thou ſetſt her forth,</l>
+               <l>God knowes her heart, let heav'ns make knowne her worth;</l>
+               <l>She being reſtored to her health againe,</l>
+               <l>Among her huſbands friends ſhe did maintaine</l>
+               <l>Her ſelfe, according to her rancke and blood,</l>
+               <l>In modeſt ſort, during her widdow-hood</l>
+               <l>She taught, to ſow, to waſh, to ſtarch, to read,</l>
+               <l>Her love, her fame in divers ſhires did ſpread,</l>
+               <l>From whence the Gentry did their children ſend</l>
+               <l>To her, her breeding they did ſtill commend,</l>
+               <l>Her paines, her care, her love gave all content,</l>
+               <l>The heaven of heavens did know her true intent:</l>
+               <l>Then did ſhe dreame againe as twas reported,</l>
+               <l>A Painter to her company reſorted,</l>
+               <l>He gain'd her love, to him ſhe married was,</l>
+               <l>But thought that it would never come to paſſe</l>
+               <l>
+                  <pb facs="tcp:33214:19"/>When ſhe awak't, but in the morning ſhe</l>
+               <l>Did aske what Painters here in <hi>Wales</hi> might be,</l>
+               <l>Her friends reply'd, truly we know not well,</l>
+               <l>But in this Towne there's one we all can tell:</l>
+               <l>This night ſaid ſhe, a Painter won my love,</l>
+               <l>A blacke haird man, of him <hi>I</hi> did approve,</l>
+               <l>But now the Painter I have loſt, my love</l>
+               <l>Is God, who did my faith, and patience prove.</l>
+               <l>Then when ſhe was growne ſtrong, ſhe did returne</l>
+               <l>Unto that houſe where ſhe began to mourne,</l>
+               <l>For her late husband dead, but when againe</l>
+               <l>She came, my mother neere her did remaine,</l>
+               <l>Where they cloſe neighbors for a twelve month liv'd,</l>
+               <l>And oft diſcours'd, ſometimes wherefore they griev'd,</l>
+               <l>My mother finding her moſt loving, courteous kind,</l>
+               <l>Of good conditions, and a zealous mind,</l>
+               <l>They both were intimate, and liv'd together</l>
+               <l>More deare then neighbours; for <hi>I</hi> knew not whether</l>
+               <l>Greater affection bore unto each other:</l>
+               <l>Then for her kind reſpects unto my Mother,</l>
+               <l>In commendations of her bleſſed name,</l>
+               <l>
+                  <hi>I</hi> theſe unpoliſht lines did frame,</l>
+               <l>
+                  <hi>Mary</hi> a Virgin God and Man did beare,</l>
+               <l>Who conquer'd Death for thoſe in thraldome were,</l>
+               <l>And you in name and nature bleſt alſo,</l>
+               <l>For health unto the Virgins Son did go,</l>
+               <l>Your love, your faith, your hope in God your joy,</l>
+               <l>Brought you to him, who did death, hell, deſtroy:</l>
+               <l>Then when the Spirits promiſe did grow neere,</l>
+               <l>Freſh hopes reviv'd my heart, as ſhall appeare,</l>
+               <l>
+                  <pb facs="tcp:33214:19"/>My ſenſes all benumb'd, my drooping mind,</l>
+               <l>My tongue, my limbs did alteration find,</l>
+               <l>(For when my ſpeech and faculties <hi>I</hi> loſt,</l>
+               <l>Upon deepe deſpaires tombe my heart was toſt)</l>
+               <l>And now the heavens who life doth ſtill preſage,</l>
+               <l>Bound up my wounds, and bids me cheriſh age,</l>
+               <l>What cares, what feares then harbour'd in my breſt,</l>
+               <l>Is knowne to him who matrimony bleſt.</l>
+               <l>He made me goe unto my Mothers friend,</l>
+               <l>That faithfull widdow whom ſhe did commend;</l>
+               <l>Our hearts we linkt in one, we did agree</l>
+               <l>When that our Nuptiall day ſhould be,</l>
+               <l>Which now I note twas juſt foure dayes before</l>
+               <l>The foure yeeres were expired and no more,</l>
+               <l>Upon which day ſhe ſaid, for you I tarried,</l>
+               <l>My life God ſpar'd for you, yet was <hi>I</hi> married</l>
+               <l>A twelve moneth ſince, unto an Artiſt kind,</l>
+               <l>Unto a blacke hair'd Painter, but I find</l>
+               <l>Dreames are but fantaſies, they'r ſeldome true.</l>
+               <l>Then I replyd, that dreame perhaps comes now,</l>
+               <l>For I a Painter am, or would be ſo</l>
+               <l>Though I of late no faculty could ſhow,</l>
+               <l>And Doctor <hi>Laud</hi> the Lord Archbiſhops grace</l>
+               <l>Of <hi>Canterbury,</hi> being Biſhop of this place</l>
+               <l>Saint <hi>Davies</hi> calld, his Lordſhip promiſe made</l>
+               <l>That by Commiſſion I ſhould uſe that trade,</l>
+               <l>Throughout his Dioces, to beautifie</l>
+               <l>The Houſe of God, by his authoritie;</l>
+               <l>And though of late he be tranſlated hence,</l>
+               <l>Your dreame my hopes revive without offence,</l>
+               <l>
+                  <pb facs="tcp:33214:20"/>Then when the next Lord Biſhop there did come,</l>
+               <l>For to ſucceed the Lord Arch-biſhops roome,</l>
+               <l>Thats now, in my behalfe my Maſter ſpake</l>
+               <l>To him, who nobly for my Maſters ſake</l>
+               <l>The like Commiſſion cauſed to be made</l>
+               <l>For me, I his aſſiſtance had, and aid;</l>
+               <l>Then with my men Gods houſe I did adorne,</l>
+               <l>Although before I ſeem'd as one forlorne,</l>
+               <l>But riding on the Sabbath day againe,</l>
+               <l>My ſoule and conſcience griev'd, and did complaine</l>
+               <l>Againſt my heart, God now the umpire is</l>
+               <l>Who will not ſuffer man to doe amiſſe;</l>
+               <l>Then as I rid I thus reſolv'd the doubt,</l>
+               <l>It is Gods houſe which makes me ride about;</l>
+               <l>Therefore <hi>I</hi> know I doe not God offend,</l>
+               <l>With that my heart did faint, becauſe the end</l>
+               <l>Was for my gaine, and not to rectifie</l>
+               <l>The houſe of God, which I did beautifie,</l>
+               <l>Then my Commiſſion cloſe two yeeres I ſtaid,</l>
+               <l>Becauſe my greedy heart made me diſmayd,</l>
+               <l>My wife being then with Child, that night when ſhe</l>
+               <l>Did hope by her account her Child to ſee,</l>
+               <l>At midnight ſhe fell in a ſhivering fit,</l>
+               <l>Whom I awakt and askt the cauſe of it,</l>
+               <l>This night ſaith ſhe, when <hi>I</hi> expected eaſe,</l>
+               <l>My ſpirit or guardian angell, which you pleaſe,</l>
+               <l>To me did ſpeake, whereat I was affrighted;</l>
+               <l>Thinke not (its ſaid) that you ſhall yet be lighted,</l>
+               <l>
+                  <pb facs="tcp:33214:20"/>On All Saints day God hath decreed that you</l>
+               <l>Shall then be brought to bed, alas its now</l>
+               <l>Full ſix weekes hence, (ſaith ſhe) alas that I</l>
+               <l>Muſt ſo long yet endure this miſery,</l>
+               <l>Yet tis Gods will ſhe ſaid, his name Ile praiſe,</l>
+               <l>His will be done, he hath prolong'd my dayes.</l>
+               <l>Then in the morne ſhe heart of grace did take,</l>
+               <l>All griefe, all feare diſtruſt ſhe did forſake,</l>
+               <l>On All Saints eve her labour then begun,</l>
+               <l>Sad gripes and throwes in every part did run,</l>
+               <l>But by the breake of day on that bleſt morne</l>
+               <l>That followed next, a man child ſhe had borne</l>
+               <l>Into the world, wherefore ſhe prais'd the Lord,</l>
+               <l>Bleſſing his name who hath perform'd his word,</l>
+               <l>With her, and ſaid I moſt unworthy am</l>
+               <l>To know thy will or call upon thy name.</l>
+            </lg>
+            <lg>
+               <l>Then I another courſe of life did undertake,</l>
+               <l>And for a time all Painting did forſake,</l>
+               <l>Becauſe a friend of mine was Sheriffe there,</l>
+               <l>And his Recorder made me for that yeare,</l>
+               <l>I by that place experience ſtill did gaine,</l>
+               <l>There I with credit did my charge maintaine,</l>
+               <l>My ſon by promiſe by my wifes relation,</l>
+               <l>God bleſt with vertue, beyond expectation:</l>
+               <l>He being a twelve moneth old or ſomewhat more,</l>
+               <l>His mother dream'd againe as heretofore,</l>
+               <l>When Miſtreſſe <hi>Priſe</hi> of <hi>Brecknocke</hi> Priory lay</l>
+               <l>Moſt dangerous ſicke, expecting every day</l>
+               <l>
+                  <pb facs="tcp:33214:21"/>The time ſhe would this wretched life depart,</l>
+               <l>Cauſe all Phyſitians fayld with skill and Art,</l>
+               <l>To cure her long diſeaſe, yet if ſhe playd</l>
+               <l>With her young child, a voice unto her ſaid,</l>
+               <l>She ſhould be eas'd of each ſicke tedious fit,</l>
+               <l>But wiſht my houſhold not to ſpeake of it,</l>
+               <l>Leaſt ſhe ſhould there be made a laughing ſtocke,</l>
+               <l>For dreames are fancies which doe moſt men mocke:</l>
+               <l>Still Miſtreſſe <hi>Priſe</hi> lay ſicke as heretofore,</l>
+               <l>After that time a moneth I know and more,</l>
+               <l>About which time my wife did ride to ſee</l>
+               <l>Her mother, friends and kindred, Gods decree</l>
+               <l>That morne ſhe went from home one privatly</l>
+               <l>Reveal'd her dreame, but told it ſecretly</l>
+               <l>To Miſtreſſe <hi>Priſe,</hi> who for my child did ſend</l>
+               <l>To ſee if after that her griefe would end,</l>
+               <l>The child being brought to her, with him ſhe playd,</l>
+               <l>And him Phyſition cald, but thus ſhe pray'd,</l>
+               <l>Lord if it be thy will that I ſhall live,</l>
+               <l>And haſt ordain'd this meanes I praiſes give,</l>
+               <l>Unto thy ſacred name, for this thy love,</l>
+               <l>Bleſſe this ſweet child with grace, that he may prove</l>
+               <l>Thy Servant here on earth, and in the end,</l>
+               <l>Make his ſweet ſoule unto thy Throne aſcend.</l>
+               <l>After the child's being there ſhe mended ſtill,</l>
+               <l>And did recover her health, Gods ſacred will,</l>
+               <l>His mother ſcarce a weeke from home did ſtay,</l>
+               <l>After the child with Miſtreſſe <hi>Priſe</hi> did play,</l>
+               <l>But God was pleas'd before my wife came home,</l>
+               <l>To make my Miſtreſſe walke about her roome:</l>
+               <l>
+                  <pb facs="tcp:33214:21"/>Then God reſtor'd her to her health againe,</l>
+               <l>And ever ſince in health ſhe doth remaine,</l>
+               <l>She can declare the truth which <hi>I</hi> have Writ,</l>
+               <l>To ſhew the gift of God I thought moſt fit,</l>
+               <l>
+                  <hi>I</hi> having now diſcharg'd in <hi>Brecknockſhire,</hi>
+               </l>
+               <l>The Shire-Clerks place, which held but for a yeere,</l>
+               <l>It pleas'd the Judges there my will to grace,</l>
+               <l>And did confer on me another place,</l>
+               <l>They made me an Attorney at th'Aſſiſe,</l>
+               <l>Which office there my fortunes did not riſe,</l>
+               <l>Becauſe my Clyants they were Welſh-men bred,</l>
+               <l>And when they ſpake, I knew not what they ſed,</l>
+               <l>Then I a Prentiſe tooke and thought it fit,</l>
+               <l>To teach him all things that was requiſite,</l>
+               <l>But when I found he Welſh and Engliſh ſpake,</l>
+               <l>I thought with him I ſhould more profit make,</l>
+               <l>If he and I with my Commiſſion went</l>
+               <l>T'adorne the Houſe of God: then my intent</l>
+               <l>And purpoſe I began, yet ſtill I prayd</l>
+               <l>My God, my Lord, who made my ſoule affraid,</l>
+               <l>T'aſſiſt my good deſire, Lord ſend me skill</l>
+               <l>Againe t'adorne thy houſe, he knew my will,</l>
+               <l>He was my ayd, though he chaſtiſed me,</l>
+               <l>He makes me cautious of his bleſt decree.</l>
+               <l>Though I did once prophane his day of reſt,</l>
+               <l>Henceforth I hope t'obſerve his Sabbath bleſt,</l>
+               <l>For on that day within his ſacred Booke,</l>
+               <l>My heart and ſoule for profit there ſhall looke,</l>
+               <l>His grace and favour I have found againe;</l>
+               <l>He with his bleſſings doth my life ſuſtaine.</l>
+               <l>
+                  <pb facs="tcp:33214:22"/>Still he is pleas'd t'aſſiſt me with his grace,</l>
+               <l>Which doth my mind content in every place,</l>
+               <l>Yet every day my ſorrows did encreaſe,</l>
+               <l>Becauſe my ſpeciall friends did ſtill decreaſe,</l>
+               <l>Death ſtrikes them here too faſt, ah me I grieve,</l>
+               <l>To ſee ſtrong Oakes caſt downe and brambles live:</l>
+               <l>Then when I left my Church-worke every night,</l>
+               <l>I ſtill would take a Pen, and thus did write.</l>
+            </lg>
+            <lg>
+               <l>Wee Painters erre to picture death ſtill blind,</l>
+               <l>For I obſerve he ſees the beſt to find,</l>
+               <l>But meagre death thy Dart hath done them good,</l>
+               <l>Thrice happie they wherein thy ſting hath ſtood,</l>
+               <l>Thou art deceiv'd, their ſoules to heaven flye,</l>
+               <l>Though in the earth their bodies rotting lye,</l>
+               <l>Thy ghaſtly pale grim face makes friends to weepe,</l>
+               <l>When thy ſharpe dart makes friends in earth to ſleepe,</l>
+               <l>Yet nought thou canſt with all thy hate or love,</l>
+               <l>Save what's decreed by that three-one above,</l>
+               <l>Then let me ſpare to rave and be content,</l>
+               <l>He is commanded by th'Omnipotent:</l>
+               <l>He doth command the world, and him alſo,</l>
+               <l>Therefore let us prepare with death to go,</l>
+               <l>Let thoſe alas who too too oft have ſtood,</l>
+               <l>More for the Church goods then the Churches good,</l>
+               <l>Repent and grieve for it with awfull feare,</l>
+               <l>Prayſing his name who doth his rod forbeare,</l>
+               <l>And let thoſe great ones next who ſeeme moſt ſtrong,</l>
+               <l>Can hardly offer right or ſuffer wrong:</l>
+               <l>Let them with humble hearts and ſoules confeſſe,</l>
+               <l>That heretofore they weakely did transgreſſe;</l>
+               <l>
+                  <pb facs="tcp:33214:22"/>Let every one make privie ſearch within,</l>
+               <l>And with repentance root out damned ſin,</l>
+               <l>Let's firmely love, yea with a tender heart,</l>
+               <l>All envie, malice, diſcord ſet apart,</l>
+               <l>Such ſins as thoſe, and others not much leſſe,</l>
+               <l>Is th'onely cauſe of griefe and heavineſſe,</l>
+               <l>Twas not their ſins alone which bred our woe,</l>
+               <l>But ours with theirs, and many ſinners mo,</l>
+               <l>We are the cauſe alas, as well as they,</l>
+               <l>For which our friends ſo ſoone doe rot in clay,</l>
+               <l>We oft ſpeake faire and love is dayly faind,</l>
+               <l>Gold ſome doe make their God, ungodly gaind.</l>
+               <l>When men grow rich they then grow inſolent,</l>
+               <l>Scorning the poore and harmeleſſe innocent,</l>
+               <l>Gods wrath we doe provoke, he oft doth threat,</l>
+               <l>With bitter teares let's humbly him intreat</l>
+               <l>To ſave the reſt, and turne his wrath away,</l>
+               <l>Oh! turne us Lord, I'm bold my ſelfe to pray,</l>
+               <l>For, for our ſins, and for our wicked crimes,</l>
+               <l>Thou tak'ſt away the godly oftentimes:</l>
+               <l>God takes from us in my conceipt the beſt,</l>
+               <l>My faithfull friends with death he did arreſt;</l>
+               <l>Thus I my heart did eaſe at idle times,</l>
+               <l>With making ſuch unpleaſant dolefull lines;</l>
+               <l>Six ſheets of Paper cloſely did I write,</l>
+               <l>The more I griev'd bewail'd the more I might,</l>
+               <l>Of them I onely here have given a touch,</l>
+               <l>To Criticks eares I know its too too much:</l>
+               <l>Therefore Ile ceaſe, and hold on my diſcourſe,</l>
+               <l>In praiſe of God, which may perhaps ſeeme worſe</l>
+               <l>
+                  <pb facs="tcp:33214:23"/>To them; when <hi>I</hi> had gon through <hi>Brecknockſhire,</hi>
+               </l>
+               <l>And Painted moſt of all the Churches there,</l>
+               <l>My Prentiſe did deſire his friends to ſee,</l>
+               <l>And with his father rid to <hi>Mountgom'ry,</hi>
+               </l>
+               <l>That day from <hi>Herefordſhire</hi> a meſſage came,</l>
+               <l>To me, (and ſaid, that there God ſpread my fame)</l>
+               <l>I thither muſt make haſt without delay,</l>
+               <l>And there reſolve a moneth or two to ſtay,</l>
+               <l>To teach young Gentlemen to write with ſpeed,</l>
+               <l>Whom Doctor <hi>Rogers</hi> in his houſe did breed,</l>
+               <l>To them I went, where I did find ſuch love,</l>
+               <l>As if the powers divine had from above</l>
+               <l>Decreed, that to my native place I muſt returne,</l>
+               <l>And for the good of others am I borne.</l>
+               <l>My Prentiſe then return'd to me no more,</l>
+               <l>Wherefore my Church Commiſſion I gave ore.</l>
+               <l>Now was my firſt borne ſon on All Saints day</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſt five yeers old; and as my friends did ſay,</l>
+               <l>About that time, the day, the houre of's birth,</l>
+               <l>His bleſſed ſoule forſooke this mortall earth,</l>
+               <l>Then on the morrow when I heard that newes,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> came unto my houſe where I did uſe,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Iob</hi> like patient mind, and prays'd the Lord,</l>
+               <l>Not doubting but his mercy would afford</l>
+               <l>Me grace to be content, then did I write</l>
+               <l>And make this Epitaph, his fathers mite,</l>
+            </lg>
+            <lg>
+               <l>On All Saints day thou didſt draw vitall breath,</l>
+               <l>On All Saints day God ſent for thee by death</l>
+               <l>On All Saints morne twas five yeeres ſince that time,</l>
+               <l>Thou firſt unto thy mothers papes did climbe<g ref="char:punc">▪</g>
+               </l>
+               <l>
+                  <pb facs="tcp:33214:23"/>God cald thee hence; twice all the Saints did ſhow,</l>
+               <l>Thou waſt a jewell which God himſelfe did owe,</l>
+               <l>God did decree that all the Saints ſhould bring</l>
+               <l>Thee to the earth, and fetch thee to their King:</l>
+               <l>Who ſo is borne to day and dyes to morrow,</l>
+               <l>Looſeth few dayes of mirth but moneths of ſorrow.</l>
+               <l>Then when ſome mournfull dayes for him were paſt,</l>
+               <l>To <hi>Herefordſhire</hi> againe <hi>I</hi> did make haſt,</l>
+               <l>Unto my Schollers there, but by the way</l>
+               <l>I at a zealous houſe was forc't to ſtay,</l>
+               <l>Whoſe ſons that Doctor did inſtruct, and I</l>
+               <l>Their want in th'Arte of writing did ſupply;</l>
+               <l>And as I backe returned home againe,</l>
+               <l>At that religious houſe, I did remaine</l>
+               <l>All night, and on the Sabbath day <hi>I</hi> went</l>
+               <l>From thence, (unknowne) becauſe I would prevent</l>
+               <l>The time, for riding to and fro ſo far,</l>
+               <l>My expectation it did ſeeme to bar,</l>
+               <l>But when I came to them againe I heard,</l>
+               <l>A mild diſcourſe, which made my ſoule affeard:</l>
+               <l>Cauſe I againe had treſpaſt on Gods day,</l>
+               <l>For which offence I wept, and thus did pray,</l>
+               <l>Be pleas'd O Lord to make me recompence,</l>
+               <l>My weake deſire and wilfull ignorance,</l>
+               <l>With zeale devout, Lord ſhield me every where,</l>
+               <l>From bold preſumption, griefe, deſpaire, and feare;</l>
+               <l>Then as through <hi>Hereford</hi> I often paſt,</l>
+               <l>The Free Schoole-Maſter, and his friends at laſt,</l>
+               <l>With many a Towneſ-man there did ſpeake to me,</l>
+               <l>That in their City I ſometimes would be</l>
+               <l>
+                  <pb facs="tcp:33214:24"/>To teach to write. For in your native Towne</l>
+               <l>Said they, where you once liv'd, your fame is blowne,</l>
+               <l>Their kind perſwaſion ſoon impreſſion tooke,</l>
+               <l>In me, for <hi>Wales</hi> I inſtantly forſooke</l>
+               <l>And all preferments there, to <hi>Hereford</hi>
+               </l>
+               <l>I came, whoſe Church and Colledge will afford,</l>
+               <l>A penſive man true comfort in diſtreſſe,</l>
+               <l>True food for ſoules and men in heavineſſe.</l>
+               <l>Now in this City can I ſcarcely gaine</l>
+               <l>Sufficient meanes, yet doe I ſtill maintaine</l>
+               <l>My ſelfe, my family, taxations pay,</l>
+               <l>And all God ſends, to whom I faſt and pray.</l>
+               <l>Grant me thy grace O God, contentment ſtill,</l>
+               <l>Lord my ambition is to doe thy will,</l>
+               <l>Thou know'ſt that's all the wealth I wiſh on earth,</l>
+               <l>Which is thy gracious gift (my ſecond birth.)</l>
+               <l>My heart, my ſoule ſhall on my God relie,</l>
+               <l>His name I bleſſe, I praiſe, I magnifie,</l>
+               <l>Which is the cauſe that I this Mite have writ,</l>
+               <l>To ſhew my zeale, but not to blaze my wit</l>
+               <l>Which is but weake, a Tradeſ-man weake I am,</l>
+               <l>Whom Chriſt I hope hath cald t'adore his name.</l>
+            </lg>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:33214:24"/>
+            <head>THE PRAYER.</head>
+            <p>O Lord God everlaſting, Father Almighty, maker of hea<g ref="char:EOLhyphen"/>ven and earth, glorious, holy and mercifull art thou in all thy works, of thy goodneſſe and mercy thou maa'st me of the duſt of the earth, breathing in me the breath of life, to the intent I ſhould continually ſerve thee, but I a miſerable and wretched ſinner, following the ſteps of my firſt parents, tranſgreſſed thy commandements, and have beene often inveigled by the world the fleſh and the divell to breake thy Sabbath, for which my conſei<g ref="char:EOLhyphen"/>ence perſwades me (by many infallible reaſons) that thou in mercy haſt afflicted me for the ſame, yet upon my weake hu<g ref="char:EOLhyphen"/>miliation thou waſt pleaſed (after thy chaſtiſement) to comfort my heart with the remembrance of thy fatherly love declared in thy ſacred word, for thou cauſedſt thine onely Son Chriſt Ie<g ref="char:EOLhyphen"/>ſus to deſcend from thy throne of Majeſty into this vale of woe and miſery, who became as it were a ſinfull man and ſuffered the moſt ſhamefull death of the Croſſe for my ſins, and for the ſinnes of all Mankind, he being ſpotleſſe and righteous; nevertheleſſe I still erred and procured thy wrath and indignation againſt me, yet in mercy thou only afflicted ſime for my ſins &amp; offences, piercing my conſcience for prophaning thy Sabbath, for which thou migh<g ref="char:EOLhyphen"/>test juſtly have conſumed me, and rooted me out from the face of the earth, but thy mercy overſwayed thy juſtice, for thou ſpa<g ref="char:EOLhyphen"/>redst my life when all that ſaw me or heard of me ſaid I was ei<g ref="char:EOLhyphen"/>ther dead, or paſt hopes of recovery, verifying in me the Apoſtles words, <hi>This is the Lords doing, and it is marvelous in our eyes,</hi> and what thy Servant <hi>David</hi> ſaid is true in me, Lord thou hast chastiſed and corrected me, but haſt not given
+<pb facs="tcp:33214:25"/>
+me over to death; therefore my heart and ſoule and all my vitall ſpirits ſhall magnifie thy great name, beſeeching thee for Ieſus Christs ſake, if it be thy bleſsed will and pleaſure, to reſtore me to my former ſtoength, ſpeech, health, memory and faculties, that I may hereafter walke faithfully before thee, all the dayes of this my earthly pilgrimage, doing, and performing diligently, (with faith hope and zeale) thoſe things which thou commandeſt me, baniſhing from my heart preſumption and deſpaire. Lord forgive me my former ſins and iniquities which I ungraciouſly (and partly thorow ignorance) have committed against thee. Thou knoweſt O God my ſimpleneſſe, and what I need, better then I can aske or crave, therefore in all humility I refer my will to thy bleſſed pleaſure, beſeeching thee O moſt gracious Father to con<g ref="char:EOLhyphen"/>tinue, multiply and increaſe thy love and favour beſtowed on me, that I never offend thee in thought, word, deed, or conſent, and when it ſhall pleaſe thee to call for this my wretched body out of this miſerable world, that my Saviour may preſent it ſpotleſse un<g ref="char:EOLhyphen"/>to thee amongſt thine elect, notwithſtanding the wickednes of my corrupt nature: which bleſſing I humbly beg at thy mercifull hands for the merits of thy only Son Chriſt Ieſus my Saviour, redeemer, and advocate O immortall, eternall, and everliving God from the bottome of my heart and ſoule I bleſſe magnifie and adore thy ſacred name, beſeeching thee again and againe for Ieſus ſake, to accept of theſe my humble petitione, although my hand is not able to write, nor heart conceive the praiſes due unto thee, nei<g ref="char:EOLhyphen"/>ther can any tongue declare thy love, goodnes, and mercy Wherfore I conclude this my humble deſire, praiſe, and thanksgiving with that abſolute prayer which thy Son my advocate Ieſus Chriſt hath taught us ſaying, <hi>Our Father which art in Heaven;</hi> &amp;c.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33214:25"/>
+         </div>
+      </body>
+   </text>
+</TEI>
